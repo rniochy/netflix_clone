@@ -10,4 +10,4 @@ const API_KEY = process.env.API_KEY
         fetchDocumentaries: `/discover/movie?api_key=${API_KEY}&with_genres=99`
     };
     
-    export default requests;
+export default requests;
