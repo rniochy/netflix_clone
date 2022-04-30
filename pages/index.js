@@ -1,7 +1,7 @@
 import Nav from '../components/nav';
 import Banner from '../components/banner';
 import Row from '../components/row';
-import requests from './assets/requests';
+import requests from '../assets/requests';
 
 export default function Home() {
 
