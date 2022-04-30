@@ -1,5 +1,5 @@
 import React,{useState, useEffect} from 'react'
-import axios  from '../pages/axios'
+import axios  from '../assets/axios'
 import requests from '../assets/requests'
 
 const Banner = () => {

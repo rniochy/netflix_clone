@@ -1,4 +1,4 @@
-import axios from '../pages/axios';
+import axios from '../assets/axios';
 import { useState, useEffect } from 'react';
 
 const Row = ({title, fetchUrl, isLargeRow}) => {
